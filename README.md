@@ -11,19 +11,13 @@ Through this project, I showcased my ability to:
 
 ---
 
-## Tech Stack
+## Technologies Used
+1. Programming Language : Python (Pandas)
+2. Data Warehouse : Snowflake
+3. Querying : SQL (aggregation, window functions)
+4. Data Loading : SnowSQL CLI
+5. Visualization : Excel, PowerPoint 
 
-| Category | Tools / Technologies |
-|-----------|----------------------|
-| Programming | Python (pandas, snowflake.connector) |
-| Data Warehouse | Snowflake |
-| Querying | SQL (aggregation, window functions, joins) |
-| Data Loading | SnowSQL CLI |
-| Visualization | Excel, PowerPoint |
-| Version Control | Git, GitHub |
-| IDE | Visual Studio Code |
-
----
 
 ## ⚙️ Project Workflow
 
